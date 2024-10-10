@@ -1,2 +1,5 @@
-The Module 1 contains documentation of the functions and techniques used in code files read.py and rescale.py, while Module 2
-contains documentation of basic.py and Module 3 contains documentation of transformations.py.
+The modules contain documentation in the following manner:
+Module 1 -  read.py and rescale.py
+Module 2 - basic.py
+Module 3 - transformations.py
+Module 4 - contours.py
